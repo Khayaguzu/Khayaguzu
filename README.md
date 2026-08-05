@@ -1,4 +1,4 @@
-# Hi, I am Khaya Guzu 👋
+# Hi, I am Makaya Guzu 👋
 
 I am a final-year Diploma in Information Technology student in Johannesburg, South Africa, focused on software development and cybersecurity. I build practical applications with C#, .NET, Kotlin, Java, and SQL, and I am developing the security knowledge needed for an entry-level SOC, cloud security, or software engineering role.
 
